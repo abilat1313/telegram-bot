@@ -4,8 +4,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 import requests
 
 TELEGRAM_TOKEN = "8307326016:AAEniuzPEezOGIp_H1nZRWx2bKrrl7Q5nak"
-OPENAI_API_KEY = "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
-"
+OPENAI_API_KEY = "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"
 
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
